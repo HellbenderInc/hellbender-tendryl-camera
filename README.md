@@ -22,4 +22,4 @@ The Hellbender Tendryl Camera leverages popular hardware and software from Raspb
 
 ## Support
 
-For questions, visit out our [support forum](https://hellbender.discourse.group/) or contact us at [support@hellbender.com](mailto:support@hellbender.xyz?subject=Tendryl%20GitHub%20Page%20Inquiry).
+For questions, visit out our [support forum](https://github.com/HellbenderInc/hellbender-tendryl-camera/discussions) or contact us at [support@hellbender.com](mailto:support@hellbender.xyz?subject=Tendryl%20GitHub%20Page%20Inquiry).
