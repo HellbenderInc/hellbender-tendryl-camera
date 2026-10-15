@@ -10,7 +10,7 @@ The table below contains each firmware release and associated user documentation
 
 | Software Version | Download Link | Release Date | Documentation | Release Notes |
 |------------------|---------------|--------------|---------------|---------------|
-| v2.0 | link | 2026-09-01 | [HTML](https://hellbenderinc.github.io/hellbender-product-documentation/tendryl-cam/2.0/) | Initial public release|
+| v2.0 | [link](https://github.com/HellbenderInc/hellbender-tendryl-camera/releases/tag/v2.0) | 2026-09-01 | [HTML](https://hellbenderinc.github.io/hellbender-product-documentation/tendryl-cam/2.0/) | Initial public release|
 
 ## External Software Resources
 
